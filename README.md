@@ -49,15 +49,7 @@ python iknl_gui_bundle.py
 
 ## 4. .exe bouwen met PyInstaller
 
-### 4.1. Oude build schoonmaken
-
-```powershell
-Remove-Item -Recurse -Force build
-Remove-Item -Recurse -Force dist
-Remove-Item -Force IKNL_Interface.spec
-```
-
-### 4.2. Build-commando
+### 4.1. Build-commando
 
 ```powershell
 pyinstaller --clean --noconfirm `
