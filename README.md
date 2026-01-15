@@ -12,7 +12,7 @@ Als je hier bent om “gewoon de tool te gebruiken”: **je hebt alleen de .exe 
 
 ---
 
-## Voor gebruikers (aanbevolen – 99% van de mensen)
+## Voor gebruikers
 
 1. Download `IKNL_Interface.exe`
 2. Dubbelklik om te starten (geen installatie nodig)
